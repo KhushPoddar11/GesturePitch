@@ -1,0 +1,1 @@
+cap.set(cv2.CAP_PROP_FPS, 60)
